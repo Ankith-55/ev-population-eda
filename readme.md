@@ -62,8 +62,8 @@ electric-vehicle-eda/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/electric-vehicle-eda.git
-cd electric-vehicle-eda
+git clone https://github.com/Ankith-55/ev-population_eda.git
+cd ev-population_eda
 ```
 
 2. Install dependencies:
