@@ -97,7 +97,7 @@ python main.py
 ## 👨‍💻 Author
 
 **Ankith V** – B.Tech AI & Data Science @ SNU Chennai  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) *(Add your actual link)*
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ankith-vijayyan/) 
 
 ---
 
